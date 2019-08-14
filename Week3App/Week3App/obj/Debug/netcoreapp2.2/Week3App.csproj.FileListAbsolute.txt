@@ -28,3 +28,8 @@ C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\W
 C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Week3App.dll
 C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Week3App.pdb
 C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Week3App.csproj.CopyComplete
+C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Razor\Views\MovieTbles\Create.g.cshtml.cs
+C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Razor\Views\MovieTbles\Delete.g.cshtml.cs
+C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Razor\Views\MovieTbles\Details.g.cshtml.cs
+C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Razor\Views\MovieTbles\Edit.g.cshtml.cs
+C:\Users\Chrishan\Documents\Week3App\Week3App\Week3App\obj\Debug\netcoreapp2.2\Razor\Views\MovieTbles\Index.g.cshtml.cs
